@@ -1,5 +1,15 @@
 # Assignment 1: Bag of Words, Naive Bayes, Support Vector Machines, Decision/Regression Trees
 
+
+# TAREA2_ML2_LLARO_RIOS_VARGAS
+TAREA 2 - MACHINE LEARNING 2
+
+# Grupo
+- LLARO CASTRO, DIEGO RENATO
+- RIOS MEZA, JENNIFER SASKIA
+- VARGAS FLORES, JOHANNA ANTONELLA
+---
+
 Deadline: Sunday, October 26th, 2025, 23:59
 
 Environment: Python, numpy, pandas, matplotlib, scikit-learn, ntlk, ISLP.
